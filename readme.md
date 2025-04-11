@@ -81,7 +81,7 @@ If you find any type of error or mistake in the translation please correct me. I
 
 Feel free to make notebooks on the current data, add more data (authentic and with sources) and have a look at the current data to make sure it is authentic and up-to-date!
 
-Dataset also available at https://www.kaggle.com/datasets/alizahidraja/quran-nlp 
+Dataset also available at https://www.kaggle.com/datasets/zamanayaz2020/quran-nlp 
 You can use Kaggle to work on it online too!
 
 Project started: March 1, 2023
