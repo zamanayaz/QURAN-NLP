@@ -66,7 +66,7 @@ Looking forward to doing something great with the Quran & NLP
 1. Add more Data!
 2. Add more Tafaseer and translation to better train the NLP model for Search Engine & Analysis
 3. Make an end-to-end application so that everyone can benefit from the newly trained models
-4. Find insightful things from the Quran
+4. Find insightful things from the Quran and Hadith
 5. Make an Arabic NLP model capable of understanding the Quran
 6. Make a single graph database encompassing Islamic knowledge
 7. Making an AI tool to authenticate Hadith
